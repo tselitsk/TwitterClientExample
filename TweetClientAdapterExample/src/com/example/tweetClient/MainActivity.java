@@ -9,7 +9,7 @@ import android.view.Menu;
 import android.view.View;
 
 public class MainActivity extends Activity {
-
+//test github push
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     
     public void onButton(View view)
     {
-    	Log.d("Hello Click", "Someone Clicked My Button!");
+    	Log.d("Hello  Click", "Someone Clicked My Button!");
     }
     
 
